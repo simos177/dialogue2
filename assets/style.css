@@ -11,12 +11,16 @@ body {
   box-sizing: border-box;
 }
 
-@media only screen and (max-width: 1700px) {
+@media only screen and (max-width: 1700px;) {
   .chatcontainer {
     display: hide;
   }
 }
-
+@media only screen and (max-width: 1700px;) {
+  .row{
+    width: 50%;
+  }
+}
 
 /* The browser window */
 .chatcontainer {
